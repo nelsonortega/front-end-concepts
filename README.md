@@ -1,6 +1,6 @@
 # Javascript
 
-## Closures 
+### Closures 
 
 ```
 function init() {
@@ -16,12 +16,17 @@ function init() {
 init()
 ```
 
-## Hoisting 
+### Hoisting 
 
+### const - var - let
 
 # React
 
+### Virtual DOM
+
+### Class vs Functional Components
 
 
 # Typescript
 
+### Generics
