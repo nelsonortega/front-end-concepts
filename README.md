@@ -22,9 +22,11 @@ init()
 
 # React
 
+### Optimize React App
 ### Virtual DOM
-
+Update the DOM can be expensive and time-consuming since you have to re-render every time there is a change. With virtual DOM, every change on props, state, etc, will render this change first on the virtual DOM, and then render the new element on the real DOM with the minimum changes possible.
 ### Class vs Functional Components
+### Higher Order Components
 
 
 # Typescript
